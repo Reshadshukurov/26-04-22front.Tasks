@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.qala{
+    background-color: rgb(58, 58, 58);
+    padding: 20px 100px;
+    color: white;
+    height: 15px;
+}
+.two{
+    background-image: url("img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 315px;
+    /* margin-top: -25px; */
+padding-left: 100px;
+padding-top: 100px;
+padding-right: 500px;
+
+    
+}
+.two span{
+    color: orangered;
+}
+.button{
+    margin: 0 80px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 40px;
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif!important
+
+}
